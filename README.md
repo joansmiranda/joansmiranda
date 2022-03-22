@@ -1,7 +1,11 @@
 ### Hi! I'm Joan 👋
 
--Undergraduate student in Economics at National University of San Marcos
--
+-I'm a undergraduate student in Economics at National University of San Marcos. 
+-My areas of interest are Macroeconomics, Monetary Economics, Development Economics, Times Series. 
+
+### Forthcoming
+
+Create repositories on heterodox economic models, using R or Python language.
 <!--
 **joansmiranda/joansmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
