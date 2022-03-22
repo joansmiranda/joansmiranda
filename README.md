@@ -1,5 +1,7 @@
 ### Hi! I'm Joan 👋
 
+-Undergraduate student in Economics at National University of San Marcos
+-
 <!--
 **joansmiranda/joansmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
