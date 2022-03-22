@@ -1,6 +1,6 @@
 ### Hi! I'm Joan 👋
 
-I'm a undergraduate student in Economics at National University of San Marcos. My areas of interest are Macroeconomics, Monetary Economics, Development Economics, Times Series. 
+Currently, I'm a undergraduate student in Economics at National University of San Marcos. My areas of interest are Macroeconomics, Monetary Economics, Development Economics and Times Series. 
 
 ### Forthcoming
 
